@@ -1,0 +1,6 @@
+{
+  "run_list": [
+    "recipe[nvm]",
+    "recipe[base::install]"
+  ]
+}
